@@ -1,0 +1,1 @@
+AAE 33700, a required 350-student propulsion course, was redesigned from points-based to standards-based mastery grading. I used Claude to break the three bottlenecks blocking faculty adoption: course structure, writing standards, and generating verified equivalent problem banks. The method ships as a reusable Claude Skill; deploys Fall 2026.
